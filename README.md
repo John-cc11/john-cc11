@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi! I'm John 👋
 
-<!--
-**John-cc11/john-cc11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student learning programming and exploring technology.  
+I like building small projects to understand how things work.
 
-Here are some ideas to get you started:
+## 🔧 About Me
+- Learning Python and programming concepts  
+- Experimenting with small coding projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python basics and small projects  
+- Data structures and algorithms  
+
+## 📫 Contact
+- You can find me here on GitHub!
